@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am Ángela😊, a Software Engineering Student in Mexico. 
+I am Ángela😊, a Software Engineer Student in Mexico. 
 
 Just looking to learn, build, and turn cool ideas into code. 
 
